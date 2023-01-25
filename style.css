@@ -1,0 +1,30 @@
+h3{
+    color: black;
+    text-align: left;
+}
+.sk
+{
+
+    margin-left:30% ;
+    margin-right: 40%;
+    margin-top: 10%;
+    
+    border: 2px solid black;
+    background: url(../Hotelbill/images/bryani.jpg) right no-repeat ;
+
+}
+.list
+{
+    text-align: center;
+}
+button
+{
+    margin-left: 40px;
+    background-color: rgba(223, 45, 0, 0.788);
+    float: left;
+    color:black;
+}
+body 
+{
+    background: bisque;
+}
